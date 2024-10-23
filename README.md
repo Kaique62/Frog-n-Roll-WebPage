@@ -1,4 +1,4 @@
-<img src="omegaLogo.png" width="100">
+<img src="omegaLogo.png" width="100" style="background-color: white;">
 <h1>Página Oficial para o jogo Frog'n Roll</h1>
 <hr>
 <h2><b>O que é Frog'n Roll?</b></h2>
